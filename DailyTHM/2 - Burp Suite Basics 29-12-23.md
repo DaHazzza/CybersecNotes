@@ -1,4 +1,4 @@
-Burp suite is used as a middle man between you and any webapp, allowing us to closer inspect traffic
+[[Burpsuite]] is used as a middle man between you and any webapp, allowing us to closer inspect traffic
 
 burpsuite features
 
