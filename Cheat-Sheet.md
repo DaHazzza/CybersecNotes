@@ -152,9 +152,6 @@
 ```
 
   
-
-[Links](Sources.md)
-
 ```
 
 [Links](Sources)
