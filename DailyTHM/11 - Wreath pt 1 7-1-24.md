@@ -22,4 +22,3 @@ download the new ovpn file to connect to the network (was haing issues downloadi
 
 - [x] Task3: backstory
 - [x] Task4: Brief
-	]
