@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyTHM/17 - Wreath pt 7 13-1-24.md",
+                "file": "DailyTHM/19 - Wreath pt9 15-1-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyTHM/17 - Wreath pt 7 13-1-24.md",
+                "file": "DailyTHM/19 - Wreath pt9 15-1-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyTHM/17 - Wreath pt 7 13-1-24.md",
+                "file": "DailyTHM/19 - Wreath pt9 15-1-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyTHM/17 - Wreath pt 7 13-1-24.md"
+                "file": "DailyTHM/19 - Wreath pt9 15-1-24.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   "active": "f7ce0a6dbdf0c359",
   "lastOpenFiles": [
     "DailyTHM/18 - Wreath pt 8 14-1-24.md",
-    "Tools/Pivoting/sshuttle.md",
+    "DailyTHM/19 - Wreath pt9 15-1-24.md",
     "DailyTHM/17 - Wreath pt 7 13-1-24.md",
+    "Tools/Pivoting/sshuttle.md",
     "Tools/Pivoting/Chisel.md",
     "Tools/Pivoting/Proxychains.md",
     "Tools/Pivoting/Plink.md",
