@@ -19,6 +19,6 @@ The command above will try one password after another in the `3digits.txt` file.
 - `http-post-form` specifies the HTTP method to use
 - `"/login.php:pin=^PASS^:Access denied"` has three parts separated by `:`
     - `/login.php` is the page where the PIN code is submitted
-    - `pin=^PASS^` will replace `^PASS^` with values from the password list
+    - `pin=^PASS^` will replace `^PASS^` with values from the password list (also can use ^USER^ for -l)
     - `Access denied` indicates that invalid passwords will lead to a page that contains the text “Access denied”
 - `-s 8000` indicates the port number on the target

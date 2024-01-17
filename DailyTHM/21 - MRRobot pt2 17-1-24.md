@@ -1,0 +1,1 @@
+using [[Hydra]] we can use it to find the username using the wordlist  found in the robots.txt, we find the username Elliot we can then do the same for the password and after a long time on brute forcing we get the password  **ER28–0652** ****
